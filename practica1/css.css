@@ -1,0 +1,198 @@
+body{
+    background:url(Fondo.jpg);
+    background-repeat:no-repeat;
+    background-size:1390px;
+    background-attachment:fixed;
+}
+.contenido{
+    background:url(Fondos2.jpg);
+    width:800px;
+    height:900px;
+    position:relative;
+    left:280px;
+    top:0px;
+}
+.menu{
+    background:url(Fondos2.jpg);
+    width:800px;
+    height:55px;
+    position:relative;
+    left:280px;
+    top:0px;
+    font-family:"Calibri";
+    font-size:18px;
+    
+}
+.header{
+    background:url(Fondos3.jpg);
+    width:1340px;
+    position:relative;
+    top:0px;
+    padding:10px;
+    text-align:center;
+    font-family:"Calibri";
+    
+}
+
+a{
+    background:#00cccc;
+    padding: 14px 15px 14px 15px;
+    margin: 0px 40px 0px 47px;
+    position: relative;
+    top:0px;
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    box-shadow: 0px 5px 0px #006666;
+   
+}
+a:hover{
+   box-shadow: 0px 3px 0px #006666; 
+}
+
+a:active{
+    box-shadow: 0px 0px 0px #006666;
+}
+
+.contenido p{
+    width: 500px;
+    position:relative;
+    top:50px;
+    left:300px;
+    font-family:"Calibri";
+    font-size:18px;
+}
+
+.contenido img{
+    width:280px;
+    position: relative;
+    bottom: 125px;
+    left: 15px;
+    display: inline-block;
+    
+}
+.p2{
+    width: 500px;
+    position:relative;
+    top:50px;
+    left:300px;
+    font-family:"Calibri";
+    font-size:10px;
+}
+article{
+    width: 500px;
+    position:relative;
+    top:-80px;
+    left:30px;
+    font-family:"Calibri";
+    font-size:18px;
+}
+.contenido ul{
+   font-size: 18px;
+   font-family:"Calibri";
+   position: relative;
+   bottom: 80px;
+   left: 50px;
+}
+img[src="tortuga2.jpg"]{
+    width:300px;
+    position: relative;
+    left: 420px;
+    bottom: 300px;
+}
+.footer{
+    background-color: #009999;
+    padding: 3px;
+    width:793.5px;
+    position:relative;
+    left:280px;
+    bottom:25px;
+    text-align:center;
+    font-family: "Calibri";
+    font-size: 18px;
+    
+}
+
+
+.contenido p.especie1{
+    font-size:16.5px;
+    position:relative;
+    width:500px;
+    left:25px;
+    top:30px;
+}
+.contenido p.especie2{
+    font-size:16.5px;
+    position:relative;
+    width:500px;
+    left:270px;
+    top:-40px;
+}
+.contenido p.especie3{
+    font-size:16.5px;
+    position:relative;
+    width:500px;
+    left:25px;
+    top:-130px;
+}
+.contenido p.especie4{
+    font-size:16.5px;
+    position:relative;
+    width:500px;
+    left:270px;
+    top:-227px;
+}
+.contenido p.especie5{
+    font-size:16.5px;
+    position:relative;
+    width:500px;
+    left:25px;
+    top:-335px;
+}
+.contenido img.imagenespecie1{
+    width:250px;
+    height:120px;
+    position:relative;
+    top:-85px;
+    left:520px;
+}
+.contenido img.imagenespecie2{
+    width:250px;
+    height:120px;
+    position:relative;
+    top:-175px;
+    left:10px;
+}
+.contenido img.imagenespecie3{
+    width:225px;
+    height:120px;
+    position:relative;
+    top:-260px;
+    left:530px;
+}
+.contenido img.imagenespecie4{
+    width:240px;
+    height:120px;
+    position:relative;
+    top:-365px;
+    left:10px;
+}
+.contenido img.imagenespecie5{
+    width:225px;
+    height:120px;
+    position:relative;
+    top:-475px;
+    left:530px;
+}
+.contenido p.comoayudar1{
+    font-size:18px;
+    width:700px;
+    position:relative;
+    top:30px;
+    left:30px;
+}
+.contenido form{
+    position:relative;
+    top:80px;
+    left:200px;
+}
