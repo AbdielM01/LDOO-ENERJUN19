@@ -1,11 +1,11 @@
 body{
-    background:url(Fondo.jpg);
+    background:url(imagenes/Fondo.jpg);
     background-repeat:no-repeat;
     background-size:1390px;
     background-attachment:fixed;
 }
 .contenido{
-    background:url(Fondos2.jpg);
+    background:url(imagenes/Fondos2.jpg);
     width:800px;
     height:900px;
     position:relative;
@@ -13,7 +13,7 @@ body{
     top:0px;
 }
 .menu{
-    background:url(Fondos2.jpg);
+    background:url(imagenes/Fondos2.jpg);
     width:800px;
     height:55px;
     position:relative;
@@ -24,7 +24,7 @@ body{
     
 }
 .header{
-    background:url(Fondos3.jpg);
+    background:url(imagenes/Fondos3.jpg);
     width:1340px;
     position:relative;
     top:0px;
@@ -66,8 +66,8 @@ a:active{
 .contenido img{
     width:280px;
     position: relative;
-    bottom: 125px;
-    left: 15px;
+    bottom:130px;
+    left: 10px;
     display: inline-block;
     
 }
@@ -94,8 +94,8 @@ article{
    bottom: 80px;
    left: 50px;
 }
-img[src="tortuga2.jpg"]{
-    width:300px;
+img[src="imagenes/tortuga2.jpg"]{
+    width:350px;
     position: relative;
     left: 420px;
     bottom: 300px;
