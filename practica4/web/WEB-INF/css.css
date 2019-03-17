@@ -1,0 +1,33 @@
+body{
+    background:url(imagenes/fondo.jpg);
+    background-repeat: no-repeat;
+    width:800px;
+    background-size:1450px;
+}
+div form{
+    text-align: center;
+    font-family: "Calibri";
+    font-size: 18px;
+    position:relative;
+    top:60px;
+    
+    
+}
+
+div{
+    background:url(imagenes/fondo2.jpg);
+    position:relative;
+    left:465px;
+    top:170px;
+    width:400px;
+    height: 300px;
+    padding:20px;
+    font-family: "Calibri";
+    font-size: 18px;
+}
+div article{
+    font-family: "Calibri";
+    font-size: 18px;
+}
+
+
